@@ -81,8 +81,7 @@ campus-energy-dashboard-yash/
 ├── requirements.txt # Libraries used
 └── README.md # Project documentation
 
-yaml
-Copy code
+
 
 ---
 
@@ -155,8 +154,7 @@ Make sure the data/ folder contains the CSV files.
 
 Run the script:
 
-bash
-Copy code
+
 python energy_dashboard.py
 Open the output/ folder to see:
 
@@ -175,5 +173,5 @@ Programming for Problem Solving using Python at K.R. Mangalam University.
 Submitted by: Yash Verma
 B.Tech CSE (AI & ML)
 
-yaml
-Copy code
+
+
